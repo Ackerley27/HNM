@@ -1,0 +1,2 @@
+-- PostgreSQL database initialization is handled by Docker Compose environment variables.
+-- Schema initialization is performed by Alembic in the backend container.
